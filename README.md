@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alenkoso
 - 👀 I’m interested in DevOps (gitlab pipelines, AWS, Azure, Terraform, NewRelic), Frontend dev (Angular, React, JS, maybe something more), water polo.
-- 🌱 I’m currently learning gitlab pipelines, React, Python.
+- 🌱 I’m currently learning gitlab pipelines, React, Python, but I am always striving to better my current skills and learn something new in the process.
 - 📫 How to reach me: 
    - email: alenizljubljane@gmail.com
    - https://www.linkedin.com/in/alenkoso/
