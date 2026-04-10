@@ -27,7 +27,7 @@ Outside of work, I tinker with self-hosted tools and side projects.
 ## 📫 Contact
 
 - 📧 Email: [me@alenkoso.com](mailto:me@alenkoso.com)  
-- 🌐 Website: [alenkoso.dev](https://portfolio.alenkoso.dev)
+- 🌐 Website: [alenkoso.com](https://alenkoso.com)
 
 ---
 
