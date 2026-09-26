@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://alenkoso.com"><img src="https://img.shields.io/badge/alenkoso.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:me@alenkoso.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Advent_of_Code_2024-86th_globally-FFFF66?style=for-the-badge&labelColor=0F0F23" alt="Advent of Code 2024: 86th globally"/>
+  <a href="https://adventofcode.com/2024/leaderboard"><img src="https://img.shields.io/badge/Advent_of_Code_2024-86th_globally-FFFF66?style=for-the-badge&labelColor=0F0F23" alt="Advent of Code 2024: 86th globally"/>
 </p>
 
 I automate things. At work that means the path from commit to production. At home it means the chores of everyday life. Same habit, different problems.
